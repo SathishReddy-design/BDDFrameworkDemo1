@@ -57,6 +57,7 @@ public class LoginStepDef
 	{
 		System.out.println("User is in the github page");
 		System.out.println("User is in the github page");
+System.out.println("User is in the github page");
 	
 	}
 
