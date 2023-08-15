@@ -18,7 +18,7 @@
 #Sample Feature Definition Template
 @tag
 Feature: Registration feature
-  This is demosite registration page having multiple fields
+  This is demosite registration page having multiple fields and logos
 
   @tag1
   Scenario: Positive registration scenario
