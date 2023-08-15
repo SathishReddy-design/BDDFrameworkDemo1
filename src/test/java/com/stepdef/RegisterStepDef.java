@@ -69,6 +69,7 @@ public class RegisterStepDef
 			if(Genders.get(i).getAttribute("value").equalsIgnoreCase(Gender))
 			{	
 				Genders.get(i).click();
+				System.out.println("Hello Registration Page");
 			
 			break;
 				
