@@ -42,7 +42,7 @@ public class LoginStepDef
 	
 	@Then("User is  not able to view their GitHub Account")
 	public void user_is_not_able_to_view_their_git_hub_account() {
-	    System.out.println("User is not able to view the account");
+	System.out.println("User is not able to view the account");
 	}
 
 	@When("User need to click on Signin button")
