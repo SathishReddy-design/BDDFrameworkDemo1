@@ -56,9 +56,7 @@ public class LoginStepDef
 	public void user_is_able_to_view_their_git_hub_account() 
 	{
 		System.out.println("User is in the github page");
-		System.out.println("User is in the github page");
-System.out.println("User is in the github page");
-	
+		
 	}
 
 	@After
