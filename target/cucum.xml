@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="73.771" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="GitHub Login feature" name="Positive Login scenario" time="73.607">
+<system-out><![CDATA[
+When User needs to enter "sathishreddysandhi1995@gmail.com" and "Raju@Rani12".passed
+And User need to click on Signin button.....................................passed
+Then User is able to view their GitHub Account..............................passed
+]]></system-out>
+</testcase>
+</testsuite>
