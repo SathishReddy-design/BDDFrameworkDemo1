@@ -55,12 +55,7 @@ public class LoginStepDef
 	@Then("User is able to view their GitHub Account")
 	public void user_is_able_to_view_their_git_hub_account() 
 	{
-		System.out.println("User is in the github page");
-System.out.println("User is in the github page");
-System.out.println("User is in the github page");
-System.out.println("User is in the github page");
-System.out.println("User is in the github page");
-	}
+		System.out.println("User is in the github page");	}
 
 	@After
 	public void tearDown() throws InterruptedException 
